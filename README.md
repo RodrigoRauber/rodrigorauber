@@ -31,7 +31,7 @@ Here are some ideas to get you started:
 </div> 
   <br> 
  
-    [![HitCount](https://hits.dwyl.com/RodrigoRauber/rodrigorauber/README.svg?style=flat-square)](http://hits.dwyl.com/RodrigoRauber/rodrigorauber/README)
+  ![visitor badge](https://visitor-badge.glitch.me/badge?page_id=RodrigoRauber.rodrigorauber)
 
   <br>
 <div> 
