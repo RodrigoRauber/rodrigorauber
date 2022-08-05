@@ -30,7 +30,8 @@ Here are some ideas to get you started:
 <!--   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RodrigoRauber&layout=compact&langs_count=7&theme=dracula"/> -->
 </div> 
   <br> 
-  ![Visitors](https://visitor-badge.glitch.me/badge?page_id=RodrigoRauber&left_color=green&right_color=red)
+ 
+    [![HitCount](https://hits.dwyl.com/RodrigoRauber/rodrigorauber/README.svg?style=flat-square)](http://hits.dwyl.com/RodrigoRauber/rodrigorauber/README)
 
   <br>
 <div> 
