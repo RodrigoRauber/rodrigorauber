@@ -24,10 +24,9 @@ Here are some ideas to get you started:
 <!--   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RodrigoRauber&layout=compact&langs_count=7&theme=dracula"/> -->
 </div> 
   <br> 
- 
- <div align="center">
+  
   ![visitor badge](https://visitor-badge.glitch.me/badge?page_id=RodrigoRauber.rodrigorauber)
-</div>
+ 
   
 
   <br>
