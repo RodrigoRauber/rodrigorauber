@@ -32,4 +32,7 @@ Here are some ideas to get you started:
   <a href="https://instagram.com/rodrigobrauber" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:rodrigo_rauber@hotmail.com.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/rodrigo-rauber-77072a104" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+
+  
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rodrigorauber&theme=dark" alt="rodrigorauber" /></p>
 </div>
